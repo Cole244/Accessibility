@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="PWTC">PWTC</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber"
+    EvaluatedDefinition="571 092 5010">571 092 5010</Variable>
+  <Variable
+    Name="Email"
+    Comment=""
+    EvaluatedDefinition="cmatinzi@umass.edu">cmatinzi@umass.edu</Variable>
+  <Variable
+    Name="StreetAddress"
+    Comment=""
+    EvaluatedDefinition="52 HTML Lane">52 HTML Lane</Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    EvaluatedDefinition="Amherst, MA 01003">Amherst, MA 01003</Variable>
+  <Variable
+    Name="UserGuideTitle"
+    Comment=""
+    OriginalName="PDFGuideTitle"
+    EvaluatedDefinition="Accessibility Guide">Accessibility Guide</Variable>
+  <Variable
+    Name="VersionNumber"
+    OriginalName="VersionNumberDot"
+    EvaluatedDefinition="1.26">1.26</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2016-02-16T22:11:15.8176589-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+</CatapultVariableSet>
